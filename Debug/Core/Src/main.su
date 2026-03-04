@@ -1,0 +1,9 @@
+../Core/Src/main.c:62:9:Read_MPG_Mult	8	static
+../Core/Src/main.c:70:9:Read_MPG_Axis	8	static
+../Core/Src/main.c:79:6:Update_MPG_LED	16	static
+../Core/Src/main.c:93:6:CDC_Print	16	static
+../Core/Src/main.c:98:6:Print_Verbose	64	static
+../Core/Src/main.c:121:5:main	16	static
+../Core/Src/main.c:179:6:SystemClock_Config	88	static
+../Core/Src/main.c:226:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:273:6:Error_Handler	4	static,ignoring_inline_asm
